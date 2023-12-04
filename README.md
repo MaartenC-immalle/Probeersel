@@ -13,3 +13,6 @@ woord bedoeld is om *quotes* van personen op te maken.
 
 Mijn leerkracht zegt wel eens:
 > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes! :loudspeaker:
+
+## Visual Studio Code
+Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
